@@ -1,0 +1,16 @@
+---------- ARCH.I386 ----------
+libc.so.6 (1 execs)
+-> test_bins/x86/hello_x86
+
+---------- ARCH.X86_64 ----------
+libc.so.6 (1 execs)
+-> test_bins/x86_64/hello_x86_64
+
+---------- ARCH.AARCH64 ----------
+libc.so.6 (1 execs)
+-> test_bins/aarch64/hello_aarch64
+
+---------- ARCH.ARM ----------
+libc.so.6 (1 execs)
+-> test_bins/armv7/hello_armv7
+
