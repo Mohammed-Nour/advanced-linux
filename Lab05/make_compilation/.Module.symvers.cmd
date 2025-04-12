@@ -1,0 +1,1 @@
+savedcmd_/home/mohamad/Desktop/thirdYear/second-semester/advanced-linux/advanced-linux/Lab05/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/mohamad/Desktop/thirdYear/second-semester/advanced-linux/advanced-linux/Lab05/Module.symvers -T /home/mohamad/Desktop/thirdYear/second-semester/advanced-linux/advanced-linux/Lab05/modules.order -i Module.symvers -e 
