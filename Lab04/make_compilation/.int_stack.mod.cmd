@@ -1,0 +1,1 @@
+savedcmd_/home/mohamad/Desktop/thirdYear/second-semester/advanced-linux/advanced-linux/Lab04/int_stack.mod := printf '%s\n'   int_stack.o | awk '!x[$$0]++ { print("/home/mohamad/Desktop/thirdYear/second-semester/advanced-linux/advanced-linux/Lab04/"$$0) }' > /home/mohamad/Desktop/thirdYear/second-semester/advanced-linux/advanced-linux/Lab04/int_stack.mod
